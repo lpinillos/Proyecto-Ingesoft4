@@ -1,0 +1,3 @@
+Ice.ProgramName=Master
+Ice.Default.Host=localhost
+Master.Endpoints=tcp -p 9099
